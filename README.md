@@ -74,10 +74,6 @@ Contributions are welcome! Please create an issue or submit a pull request for a
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For more information, please email dominic@microtech-global.com.
-
 ---
 
 *This application is developed only for educational purposes and personal hobby.*
